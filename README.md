@@ -1,15 +1,18 @@
-Data Analyst with 2+ years of working in data and analytics transformation projects. My proficiency includes Power BI, SQL, Excel, and ETL techniques. 
+# 💫 About Me:
+Data Analyst working on generating insights from data.<br>Studied Computer Science and Engineering.<br>Working in Cognizant Technology Solutions
 
-<h1 align="center">Hi 👋, I'm Devina Negi</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devinanegi&label=Profile%20views&color=0e75b6&style=flat" alt="devinanegi" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devina-negi-3a620917a/) 
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devinanegi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devinanegi&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinanegi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **devinanegi87@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=devinanegi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devina-negi-3a620917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devina-negi-3a620917a/" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
