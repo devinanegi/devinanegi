@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: <h1 align="center">Hi 👋, I'm Devina Negi</h1>
+
 Data Analyst working on generating insights from data.<br>Studied Computer Science and Engineering.<br>Working in Cognizant Technology Solutions
 
 
